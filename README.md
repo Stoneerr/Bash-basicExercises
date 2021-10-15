@@ -1,5 +1,9 @@
-# Ejercicios
-Ejercicios basicos en Bash
+# Ejercicios Basicos para Bash
+Aprende lo necesario de bash en esta [pagina web](https://bioinf.comav.upv.es/courses/unix/scripts_bash.html)!
+
+- - -
+
+## Ejercicios Completados
 
 - [x] Ejercicio 1
 - [ ] Ejercicio 2
